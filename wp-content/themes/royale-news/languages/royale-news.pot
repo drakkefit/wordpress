@@ -1,0 +1,705 @@
+# Copyright (C) 2020 Royale News
+# This file is distributed under the same license as the Royale News package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Royale News\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:28
+msgid "404"
+msgstr ""
+
+#: 404.php:29
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:33
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:57
+msgid "Primary"
+msgstr ""
+
+#: functions.php:58
+msgid "Social"
+msgstr ""
+
+#: functions.php:59
+msgid "Footer"
+msgstr ""
+
+#: functions.php:116
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:118
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:126
+msgid "Featured Posts Widget Area"
+msgstr ""
+
+#: functions.php:128
+msgid "Add Main Featured Posts or Slider Featured Posts widgets here."
+msgstr ""
+
+#: functions.php:136
+msgid "FrontPage Widget Area"
+msgstr ""
+
+#: functions.php:138
+msgid "Add Main Highlight or Slider Highlight widgets here."
+msgstr ""
+
+#: functions.php:146
+msgid "FrontPage Bottom Widget Area"
+msgstr ""
+
+#: functions.php:148
+msgid "Add Widgets Here."
+msgstr ""
+
+#: functions.php:156
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions.php:158
+msgid "Add only four widgets here."
+msgstr ""
+
+#: functions.php:166
+msgid "Header Advertisement"
+msgstr ""
+
+#: functions.php:168
+msgid "Add advertisement here."
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Royale News Pro"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "Upgrade to Pro"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:73
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:76
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:80
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:83
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:93
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:110, template-parts/content-page.php:45
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:43
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-frontpage.php:3
+msgid "FrontPage"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:31, template-parts/content-single.php:48
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-search.php:53, template-parts/content.php:50
+msgid "Read More"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:37
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: themebeez/customizer/customizer-choices.php:31, themebeez/customizer/customizer-choices.php:46
+msgid "Left"
+msgstr ""
+
+#: themebeez/customizer/customizer-choices.php:32
+msgid "Right"
+msgstr ""
+
+#: themebeez/customizer/customizer-choices.php:33
+msgid "None"
+msgstr ""
+
+#: themebeez/customizer/customizer-choices.php:47
+msgid "Center"
+msgstr ""
+
+#: themebeez/customizer/customizer-controls.php:46
+msgid "Select"
+msgstr ""
+
+#: themebeez/customizer/options.php:8
+msgid "Theme Options"
+msgstr ""
+
+#: themebeez/customizer/options.php:9
+msgid "Royale News Customization Options"
+msgstr ""
+
+#: themebeez/customizer/options.php:20
+msgid "Site Title Font Size"
+msgstr ""
+
+#: themebeez/customizer/options.php:33
+msgid "Logo Position"
+msgstr ""
+
+#: themebeez/customizer/options.php:34
+msgid "If logo is placed at center, then the header advertisement area will be disabled."
+msgstr ""
+
+#: themebeez/customizer/options.php:49
+msgid "Ticker News Options"
+msgstr ""
+
+#: themebeez/customizer/options.php:50
+msgid "Configure Ticker News"
+msgstr ""
+
+#: themebeez/customizer/options.php:59
+msgid "Ticker News Title"
+msgstr ""
+
+#: themebeez/customizer/options.php:70
+msgid "Choose Category"
+msgstr ""
+
+#: themebeez/customizer/options.php:82
+msgid "No of Posts"
+msgstr ""
+
+#: themebeez/customizer/options.php:92
+msgid "Current Date Option"
+msgstr ""
+
+#: themebeez/customizer/options.php:93
+msgid "Configure Current Date"
+msgstr ""
+
+#: themebeez/customizer/options.php:103
+msgid "Show Current Date"
+msgstr ""
+
+#: themebeez/customizer/options.php:112
+msgid "Search Button Option"
+msgstr ""
+
+#: themebeez/customizer/options.php:113
+msgid "Configure Search Button"
+msgstr ""
+
+#: themebeez/customizer/options.php:123
+msgid "Show Search Button"
+msgstr ""
+
+#: themebeez/customizer/options.php:136
+msgid "Copyright Text Option"
+msgstr ""
+
+#: themebeez/customizer/options.php:137
+msgid "Configure Copyright Text"
+msgstr ""
+
+#: themebeez/customizer/options.php:147
+msgid "Copyright Text"
+msgstr ""
+
+#: themebeez/customizer/options.php:148
+msgid "Insert copyright text"
+msgstr ""
+
+#: themebeez/customizer/options.php:157
+msgid "Scroll Top Button Option"
+msgstr ""
+
+#: themebeez/customizer/options.php:158
+msgid "Configure Scroll Top Button"
+msgstr ""
+
+#: themebeez/customizer/options.php:168
+msgid "Show Scroll Top Button"
+msgstr ""
+
+#: themebeez/customizer/options.php:179
+msgid "Breadcrumb Option"
+msgstr ""
+
+#: themebeez/customizer/options.php:180
+msgid "Configure Breadcrumb"
+msgstr ""
+
+#: themebeez/customizer/options.php:190
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: themebeez/customizer/options.php:202
+msgid "Blog Page Option"
+msgstr ""
+
+#: themebeez/customizer/options.php:203
+msgid "Configure Blog page"
+msgstr ""
+
+#: themebeez/customizer/options.php:213
+msgid "Show Featured Posts"
+msgstr ""
+
+#: themebeez/customizer/options.php:225
+msgid "Post Single Options"
+msgstr ""
+
+#: themebeez/customizer/options.php:226
+msgid "Configure post single"
+msgstr ""
+
+#: themebeez/customizer/options.php:236, themebeez/customizer/options.php:258
+msgid "Display Featured Image"
+msgstr ""
+
+#: themebeez/customizer/options.php:247
+msgid "Page Single Options"
+msgstr ""
+
+#: themebeez/customizer/options.php:248
+msgid "Configure page single"
+msgstr ""
+
+#: themebeez/customizer/options.php:270
+msgid "Sidebar Option"
+msgstr ""
+
+#: themebeez/customizer/options.php:271
+msgid "Configure Sidebar Position"
+msgstr ""
+
+#: themebeez/customizer/options.php:281
+msgid "Sidebar Position"
+msgstr ""
+
+#: themebeez/customizer/options.php:282
+msgid "Select Sidebar Postion. Select none to hide sidebar."
+msgstr ""
+
+#: themebeez/customizer/options.php:295
+msgid "Post Meta Options"
+msgstr ""
+
+#: themebeez/customizer/options.php:306
+msgid "Enable Post Date"
+msgstr ""
+
+#: themebeez/customizer/options.php:318
+msgid "Enable Author Name"
+msgstr ""
+
+#: themebeez/customizer/options.php:330
+msgid "Enable Comments Number"
+msgstr ""
+
+#: themebeez/customizer/options.php:342
+msgid "Enable Categories"
+msgstr ""
+
+#: themebeez/customizer/options.php:353
+msgid "Excerpt"
+msgstr ""
+
+#: themebeez/customizer/options.php:363
+msgid "Excerpt Length"
+msgstr ""
+
+#: themebeez/filters.php:17
+msgid "Search for:"
+msgstr ""
+
+#: themebeez/filters.php:20
+msgid "Search"
+msgstr ""
+
+#: themebeez/filters.php:85
+msgid "Full Name *"
+msgstr ""
+
+#: themebeez/filters.php:90
+msgid "Email Address *"
+msgstr ""
+
+#: themebeez/filters.php:95
+msgid "Website"
+msgstr ""
+
+#: themebeez/filters.php:112
+msgid "comment_news comment-form"
+msgstr ""
+
+#: themebeez/filters.php:113
+msgid "Leave comment"
+msgstr ""
+
+#: themebeez/filters.php:116
+msgid "Your email address will not be published. Required fields are marked with *."
+msgstr ""
+
+#: themebeez/filters.php:118
+msgid "Comment"
+msgstr ""
+
+#: themebeez/filters.php:121
+msgid "btn btn-default submit-btn"
+msgstr ""
+
+#: themebeez/filters.php:122
+msgid "Post A Comment"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: themebeez/helpers.php:28
+msgctxt "Roboto Condensed font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: themebeez/helpers.php:33
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: themebeez/helpers.php:59
+msgid "Add Menu"
+msgstr ""
+
+#: themebeez/helpers.php:61
+msgid "Add a menu"
+msgstr ""
+
+#: themebeez/hooks.php:66
+msgid "Skip to content"
+msgstr ""
+
+#: themebeez/hooks.php:624
+msgid "&laquo;"
+msgstr ""
+
+#: themebeez/hooks.php:625
+msgid "&raquo;"
+msgstr ""
+
+#. translators: theme credit info
+#: themebeez/hooks.php:735
+msgid "%1$s %2$s by %3$s"
+msgstr ""
+
+#. translators: theme credit info
+#: themebeez/hooks.php:744
+msgid "%1$s by %2$s"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:268
+msgid "Browse:"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:269
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:270
+msgid "Home"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:271
+msgid "404 Not Found"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:272
+msgid "Archives"
+msgstr ""
+
+#. translators: %s is the search query.
+#: themebeez/third-party/breadcrumbs.php:274
+msgid "Search results for: %s"
+msgstr ""
+
+#. translators: %s is the page number.
+#: themebeez/third-party/breadcrumbs.php:276
+msgid "Page %s"
+msgstr ""
+
+#. translators: %s is the page number.
+#: themebeez/third-party/breadcrumbs.php:278
+msgid "Comment Page %s"
+msgstr ""
+
+#. translators: Minute archive title. %s is the minute time format.
+#: themebeez/third-party/breadcrumbs.php:280
+msgid "Minute %s"
+msgstr ""
+
+#. translators: Weekly archive title. %s is the week date format.
+#: themebeez/third-party/breadcrumbs.php:282
+msgid "Week %s"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:742
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:759
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:776
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:792, themebeez/third-party/breadcrumbs.php:821, themebeez/third-party/breadcrumbs.php:848, themebeez/third-party/breadcrumbs.php:875, themebeez/third-party/breadcrumbs.php:1215
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:793, themebeez/third-party/breadcrumbs.php:849, themebeez/third-party/breadcrumbs.php:1219
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:794, themebeez/third-party/breadcrumbs.php:1223
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: themebeez/third-party/breadcrumbs.php:822
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: themebeez/widgets/royale-news-bottom-widget-layouts.php:18
+msgid "Bottom News Layout One. Place it within \"FrontPage Bottom Widget Area\""
+msgstr ""
+
+#: themebeez/widgets/royale-news-bottom-widget-layouts.php:21
+msgid "RN: Bottom News Layout One"
+msgstr ""
+
+#: themebeez/widgets/royale-news-bottom-widget-layouts.php:130, themebeez/widgets/royale-news-bottom-widget-layouts.php:292, themebeez/widgets/royale-news-sidebar-widgets.php:112, themebeez/widgets/royale-news-sidebar-widgets.php:279, themebeez/widgets/royale-news-widget-layouts.php:190, themebeez/widgets/royale-news-widget-layouts.php:396
+msgid "Title: "
+msgstr ""
+
+#: themebeez/widgets/royale-news-bottom-widget-layouts.php:134, themebeez/widgets/royale-news-bottom-widget-layouts.php:296
+msgid "Select Category:"
+msgstr ""
+
+#: themebeez/widgets/royale-news-bottom-widget-layouts.php:144, themebeez/widgets/royale-news-bottom-widget-layouts.php:306, themebeez/widgets/royale-news-highlight.php:352
+msgid "Latest Posts"
+msgstr ""
+
+#: themebeez/widgets/royale-news-bottom-widget-layouts.php:152, themebeez/widgets/royale-news-bottom-widget-layouts.php:314, themebeez/widgets/royale-news-highlight.php:360, themebeez/widgets/royale-news-sidebar-widgets.php:132, themebeez/widgets/royale-news-widget-layouts.php:210, themebeez/widgets/royale-news-widget-layouts.php:416
+msgid "Post No: "
+msgstr ""
+
+#: themebeez/widgets/royale-news-bottom-widget-layouts.php:171
+msgid "Bottom News Layout Two. Place it within \"FrontPage Bottom Widget Area\""
+msgstr ""
+
+#: themebeez/widgets/royale-news-bottom-widget-layouts.php:174
+msgid "RN: Bottom News Layout Two"
+msgstr ""
+
+#: themebeez/widgets/royale-news-highlight.php:20
+msgid "Displays three distinct featured posts. Place it in \"Featured Posts Widget Area\" widget area."
+msgstr ""
+
+#: themebeez/widgets/royale-news-highlight.php:23
+msgid "RN: Main Featured Posts"
+msgstr ""
+
+#: themebeez/widgets/royale-news-highlight.php:189, themebeez/widgets/royale-news-highlight.php:564
+msgid "Left Highlight:"
+msgstr ""
+
+#: themebeez/widgets/royale-news-highlight.php:200, themebeez/widgets/royale-news-highlight.php:216, themebeez/widgets/royale-news-highlight.php:233, themebeez/widgets/royale-news-highlight.php:575, themebeez/widgets/royale-news-highlight.php:595, themebeez/widgets/royale-news-highlight.php:612, themebeez/widgets/royale-news-sidebar-widgets.php:126, themebeez/widgets/royale-news-widget-layouts.php:204, themebeez/widgets/royale-news-widget-layouts.php:410
+msgid "Show Recent Posts"
+msgstr ""
+
+#: themebeez/widgets/royale-news-highlight.php:206, themebeez/widgets/royale-news-highlight.php:585
+msgid "Right Top Highlight:"
+msgstr ""
+
+#: themebeez/widgets/royale-news-highlight.php:222, themebeez/widgets/royale-news-highlight.php:601
+msgid "Right Bottom Highlight:"
+msgstr ""
+
+#: themebeez/widgets/royale-news-highlight.php:255
+msgid "Displays posts as featured posts in Slider. Place it in \"Featured Posts Wiget Area\" widget area. It only works in the widget area."
+msgstr ""
+
+#: themebeez/widgets/royale-news-highlight.php:257
+msgid "RN: Slider Featured Posts"
+msgstr ""
+
+#: themebeez/widgets/royale-news-highlight.php:342, themebeez/widgets/royale-news-sidebar-widgets.php:116, themebeez/widgets/royale-news-widget-layouts.php:194, themebeez/widgets/royale-news-widget-layouts.php:400
+msgid "Select Category: "
+msgstr ""
+
+#: themebeez/widgets/royale-news-highlight.php:381
+msgid "Displays featured posts with layout similar to \"RN: Main Featured Posts\" widget but with slider. Place it in \"Featured Posts Widget Area\" widget area."
+msgstr ""
+
+#: themebeez/widgets/royale-news-highlight.php:383
+msgid "RN: Main Featured Posts With Slider"
+msgstr ""
+
+#: themebeez/widgets/royale-news-highlight.php:581
+msgid "Slider Post No: "
+msgstr ""
+
+#: themebeez/widgets/royale-news-sidebar-widgets.php:18
+msgid "Displays posts. Place it in \"Sidebar\" or \"Footer Widget Area\"."
+msgstr ""
+
+#: themebeez/widgets/royale-news-sidebar-widgets.php:21
+msgid "RN: Recent Posts"
+msgstr ""
+
+#: themebeez/widgets/royale-news-sidebar-widgets.php:152
+msgid "Social Links Widget. Place it in \"Sidebar\"."
+msgstr ""
+
+#: themebeez/widgets/royale-news-sidebar-widgets.php:155
+msgid "RN: Social Widget"
+msgstr ""
+
+#: themebeez/widgets/royale-news-sidebar-widgets.php:183
+msgid "Facebook"
+msgstr ""
+
+#: themebeez/widgets/royale-news-sidebar-widgets.php:196
+msgid "Twitter"
+msgstr ""
+
+#: themebeez/widgets/royale-news-sidebar-widgets.php:209
+msgid "Instagram"
+msgstr ""
+
+#: themebeez/widgets/royale-news-sidebar-widgets.php:222
+msgid "Linked In"
+msgstr ""
+
+#: themebeez/widgets/royale-news-sidebar-widgets.php:235
+msgid "Youtube"
+msgstr ""
+
+#: themebeez/widgets/royale-news-sidebar-widgets.php:286
+msgid "Facebook Link:"
+msgstr ""
+
+#: themebeez/widgets/royale-news-sidebar-widgets.php:293
+msgid "Twitter Link:"
+msgstr ""
+
+#: themebeez/widgets/royale-news-sidebar-widgets.php:300
+msgid "Instagram Link:"
+msgstr ""
+
+#: themebeez/widgets/royale-news-sidebar-widgets.php:307
+msgid "linkedin Link:"
+msgstr ""
+
+#: themebeez/widgets/royale-news-sidebar-widgets.php:314
+msgid "Youtube Link:"
+msgstr ""
+
+#: themebeez/widgets/royale-news-widget-layouts.php:18
+msgid "News Layout One. Place it within \"FrontPage Widget Area\""
+msgstr ""
+
+#: themebeez/widgets/royale-news-widget-layouts.php:21
+msgid "RN: News Layout One"
+msgstr ""
+
+#: themebeez/widgets/royale-news-widget-layouts.php:48, themebeez/widgets/royale-news-widget-layouts.php:259
+msgid "View More"
+msgstr ""
+
+#: themebeez/widgets/royale-news-widget-layouts.php:228
+msgid "News Layout Two. Place it within \"FrontPage Widget Area\""
+msgstr ""
+
+#: themebeez/widgets/royale-news-widget-layouts.php:231
+msgid "RN: News Layout Two"
+msgstr ""
